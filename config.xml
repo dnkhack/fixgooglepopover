@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>fixgooglepopover</name>
+	<displayName><![CDATA[Fix Google popover API]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Temporary solution  to fix Google popover API]]></description>
+	<author><![CDATA[DNK Soft]]></author>
+	<tab><![CDATA[others]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
